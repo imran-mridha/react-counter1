@@ -6,7 +6,7 @@ const Parent = () => {
   return (
     <div class="">
       <div className="parrent">
-        <h1>{count} <small>Parrent</small></h1>
+        <h1>{count} <small>Parrent Component</small></h1>
         {/* <div>
           <button onClick={() => setcount(count - 1)} className="btn_1">
             Decrement
